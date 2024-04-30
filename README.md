@@ -30,7 +30,7 @@ The dashboard is designed to be user-friendly, providing quick insights at a gla
 
 
 
-Please replace "https://github.com/nandutejaswini/PrimeVideo-Dashboard/blob/main/Prime_video_dashboard.png" with the actual path to the screenshots in your GitHub repository.
+ "https://github.com/nandutejaswini/PrimeVideo-Dashboard/blob/main/Prime_video_dashboard.png" 
 
 ## Challenges and Reflections
 One of the key challenges was handling the large volume of data and ensuring that the visualizations remain performant.
